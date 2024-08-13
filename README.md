@@ -8,6 +8,7 @@ This project helps you chat with any pdf you upload
 - Add your own api key 
 ### How to use
 1. Install all dependencies
+
 `﻿pip install llamaapi PyPDF2 ` 
 
 `﻿pip install -q -U google-generativeai` 
